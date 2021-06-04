@@ -1,0 +1,6 @@
+Vast majority of parts will be from RS, because university procurement likes RS
+
+Stepper Motor (2) -https://uk.rs-online.com/web/p/dc-motors/5350489/
+Webcam - https://uk.rs-online.com/web/p/webcams/7950876/
+Servo - https://uk.rs-online.com/web/p/dc-motors/7813058/
+Raspberry Pi 4 - https://uk.rs-online.com/web/p/raspberry-pi/2007274/
